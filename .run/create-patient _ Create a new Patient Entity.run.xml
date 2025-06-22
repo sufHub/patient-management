@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="create-patient | Create a new Patient Entity" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/create-patient.http" executionIdentifier="Create a new Patient Entity" runType="Run single request">
+    <method v="2" />
+  </configuration>
+</component>
