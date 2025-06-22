@@ -1,0 +1,13 @@
+### Create a new Patient Entity
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "Shaik21",
+  "email": "Shaik21@asd.com",
+  "address": "New address",
+  "dateOfBirth": "1955-01-19",
+  "registeredDate": "2024-12-05"
+}
+
+###

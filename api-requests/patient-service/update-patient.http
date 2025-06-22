@@ -1,0 +1,13 @@
+### Update patient details
+
+PUT http://localhost:4000/patients/ee3a9ae9-f3cd-4c94-94cf-2c2d35a25a5c
+Content-Type: application/json
+
+{
+  "name": "Shaik Ummer Faruk UPDATEDs",
+  "dateOfBirth": "2000-12-01",
+  "email": "suf@gmail2.com",
+  "address": "New addeddss"
+}
+
+###
